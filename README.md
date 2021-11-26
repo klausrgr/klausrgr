@@ -3,7 +3,7 @@
 Mostly track and trace changes and impact between business processes down to code level. 
 - 🌱 I’m currently learning Python and recovering my perl scripting knowledge.
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...  leave a commment.. 
+- 📫 How to reach me ...  leave a comment.. 
 
 <!---
 klausrgr/klausrgr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
